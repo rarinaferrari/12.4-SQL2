@@ -23,6 +23,7 @@ GROUP BY s.store_id, ci.city_id, st.staff_id
 HAVING count(c.customer_id) > 300
 
 ```
+![изображение](https://user-images.githubusercontent.com/97339527/205489052-15a88d5a-61c5-4ecf-b4d8-0a2e6332f5d4.png)
 
 
 
